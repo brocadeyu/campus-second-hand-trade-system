@@ -1,12 +1,7 @@
 [![Build Status](https://travis-ci.org/B2D1/TodoList.svg?branch=master)](https://travis-ci.org/B2D1/TodoList)
 
-## 🚩 一款基于 TS React AntD Koa2 MongoDB 实现的 TodoList 全栈应用
+## 🚩 一款基于 TS React AntD Koa2 MongoDB 实现的 校园二手闲置物品交易应用
 
-### [在线访问](https://baobangdong.cn:4000/)
-
-### [项目概述](https://www.baobangdong.cn/todolist-full-stack-application/)
-
-![](https://user-gold-cdn.xitu.io/2019/2/19/169053e1533bad8a?imageslim)
 
 ### 应用特点
 
