@@ -1,0 +1,37 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  //background: #f6f6f6;
+  background-image: url("https://goodyjb.oss-cn-beijing.aliyuncs.com/index-backgimg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  header{ title: "0000"}
+
+  .container {
+    position: relative;
+    //background-color: white;
+    top: 300px;
+    left: 600px;
+    width: 300px;
+    margin: auto;
+    @media screen and (max-width: 700px) {
+      top: 150px;
+    }
+  }
+  .tip {
+    span:nth-child(2) {
+      color: white;
+      cursor: pointer;
+      &:hover {
+        border-bottom: 1px solid currentColor;
+      }
+    }
+  }
+  // .form-tip {
+  //   min-width: 300px;
+  // }
+
+  // .form-button {
+  //   width: 100%;
+  // }
+}
